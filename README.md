@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Welcome to Spaceship 👋
+## I'm Rodrigo Kobayashi but I'm known in the community as PandawanBr
 <!--
 **PandawanBr/PandawanBr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PandawanBr&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PandawanBr&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
