@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in Sinqia like Front-End Developer 
 - 🌱 I’m currently learning NodeJs and ReactJs
-- ⚡ Fun fact: You can find me in the night on my [channel](https://www.twitch.tv/pandawanbr), playing CS or some games with everybody.
+- ⚡ Fun fact: You can find me at night on my [channel](https://www.twitch.tv/pandawanbr), playing CS or some games with everybody.
 
 
 <!--
