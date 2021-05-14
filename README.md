@@ -1,9 +1,9 @@
 # Welcome to Spaceship 👋
 ## I'm Rodrigo Kobayashi but I'm known in the community as PandawanBr
 
-- 🔭 I’m currently working in Sinqia like Front-End Developer 
+- 🔭 I’m currently working in Accenture like Systems Analyst Pl
 - 🌱 I’m currently learning Java Spring-Boot
-- ⚡ Fun fact: You can find me at night on my [channel](https://www.twitch.tv/pandawanbr), playing CS or some games with everybody.
+- ⚡ Fun fact: You can find me at night playing CS or some games with everybody.
 
 
 <!--
