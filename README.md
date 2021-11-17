@@ -1,9 +1,9 @@
 # Welcome to Spaceship 👋
-## I'm Rodrigo Kobayashi but I'm known in the community as PandawanBr
+## I'm Rodrigo Kobayashi in network space my nick is PandawanBr
 
-- 🔭 I’m currently working in Accenture like Systems Analyst Pl
-- 🌱 I’m currently learning Java Spring-Boot
-- ⚡ Fun fact: You can find me at night playing CS or some games with everybody.
+- 🔭 Working in Accenture like Systems Analyst Pl
+- 🌱 Learning Java Spring-Boot and AWS Cloud
+- ⚡ You can find me watching some streams channels on Twitch
 
 
 <!--
@@ -20,7 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 -->
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PandawanBr&include_all_commits=true&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PandawanBr&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
