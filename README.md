@@ -1,9 +1,9 @@
 # Welcome to Spaceship 👋
-## I'm Rodrigo Kobayashi in network space my nick is PandawanBr
+## I'm Rodrigo Kobayashi but my nick is PandawanBr
 
-- 🔭 Working in Accenture like Systems Analyst Pl
-- 🌱 Learning Java Spring-Boot and AWS Cloud
-- ⚡ You can find me watching some streams channels on Twitch
+- 🔭 Working in Accenture like Application Development Analyst
+- 🌱 Learning about AWS Cloud / Python / Flutter - Dart and other things
+- ⚡ I really like cook and BBQ is awesome
 
 
 <!--
