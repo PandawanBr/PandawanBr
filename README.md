@@ -27,6 +27,6 @@
   <img align="center" alt="css3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img align="center" alt="sass" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
   
-  <img align="center" alt="sql server" height="30" width="40" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-  <img align="center" alt="oracle" height="30" width="40" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+  <img align="center" alt="sql server" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="center" alt="oracle" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
 </div>
