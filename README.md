@@ -7,8 +7,8 @@
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/rkobayaashi)](https://instagram.com/rkobayaashi)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/pandawanbr)](https://twitter.com/pandawanbr)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kobayashirodrigo)](https://www.linkedin.com/in/kobayashirodrigo)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/pandawanbr)](https://twitter.com/pandawanbr)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kobayashirodrigo)](https://www.linkedin.com/in/kobayashirodrigo)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pandawanbr&langs_count=8&count_private=true&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
