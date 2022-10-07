@@ -1,9 +1,9 @@
 # Welcome to Spaceship 👋
 ## I'm Rodrigo Kobayashi
 
-- 🔭 Working in Accenture like Application Development Analyst
-- 🌱 Learning about AWS Cloud / Python / Flutter - Dart and other things
-- ⚡ I really like cook and BBQ is awesome
+- 🔭 Working in Accenture like Application Development Senior Analyst
+- 🌱 Learning about GoLang
+- ⚡ I really like cook and BBQ and Pokémon games is awesome
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/rkobayaashi)](https://instagram.com/rkobayaashi)
